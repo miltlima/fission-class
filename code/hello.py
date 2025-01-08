@@ -1,5 +1,2 @@
-def main(req):
-    return {
-        'statusCode': 200,
-        "body": "Hello, World!"
-    }
+def main():
+    return "Hello World, Parabéns! Sua função Fission foi executada com sucesso. 🚀"
